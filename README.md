@@ -5,15 +5,15 @@ A full-stack Invoice Management System built with React (Vite), Node.js, Express
 This app allows users to generate invoices, manage items, and calculate totals automatically.
 
 
-✨ FEATURES
+## ✨ FEATURES
 
-  ✅ Create invoices with customer details
-  ✅ Add multiple items dynamically
-  ✅ Auto calculation of total amount
-  ✅ GST (%) support per item
-  ✅ Delete items instantly
-  ✅ Backend API integration
-  ✅ Data stored in MySQL database
+  - ✅ Create invoices with customer details
+  - ✅ Add multiple items dynamically
+  - ✅ Auto calculation of total amount
+  - ✅ GST (%) support per item
+  - ✅ Delete items instantly
+  - ✅ Backend API integration
+  - ✅ Data stored in MySQL database
 
 
 database
