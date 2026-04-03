@@ -1,4 +1,4 @@
-🧾 INVOICE APPLICATION
+#🧾 INVOICE APPLICATION
 🚀 Create Professional Invoices Easily
 
 A full-stack Invoice Management System built with React (Vite), Node.js, Express, and MySQL.
