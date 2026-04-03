@@ -16,7 +16,7 @@ This app allows users to generate invoices, manage items, and calculate totals a
   - ✅ Data stored in MySQL database
 
 
-database
+# database
 
 🛠️ TECH STACK
     -🎨 Frontend
