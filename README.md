@@ -70,7 +70,7 @@ database
 
 📸 SCREENSHOT
 
-![image](https://user-images.githubusercontent.com/xxxx/billing.png)
+![App Screenshot](./assets/billing.png)
 
 
 
