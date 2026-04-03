@@ -70,10 +70,7 @@ database
 
 📸 SCREENSHOT
 
-<p align="center">
-  <img src="./billing.png" width="800"/>
-</p>
-  Screenshot 2026-04-03 140941
+![image](https://user-images.githubusercontent.com/xxxx/billing.png)
 
 
 
