@@ -71,7 +71,7 @@ database
 📸 SCREENSHOT
 
 <p align="center">
-  <img src="./Screenshot 2026-04-03 140941.png" width="800"/>
+  <img src="./billing.png" width="800"/>
 </p>
   Screenshot 2026-04-03 140941
 
